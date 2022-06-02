@@ -13,6 +13,7 @@ Implementar um componente de multiselect.
 
 ### Especificações
 
+- O componente deverá ser construido utilizando React & Typescript
 - Não poderá fazer uso de frameworks CSS, como Bootstrap e Foundation;
 - Não poderá fazer uso de bibliotecas de componentes;
 - Ser fiel ao design proposto (com as cores e espaçamentos corretos);
