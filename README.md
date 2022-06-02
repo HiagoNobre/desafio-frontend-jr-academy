@@ -9,7 +9,7 @@
 
 ### Objetivo
 
-Implementar uma componente de multiselect.
+Implementar um componente de multiselect.
 
 ### Especificações
 
@@ -31,7 +31,7 @@ A fonte utilizada no componente é a **Poppins**.
 
 ## Entrega
 
-O projeto do desafio técnico deve ser entregue em um dos seguintes formatos:
+O projeto do desafio técnico deve ser entregue no seguinte formato:
 - Repositório hospedado (Github, Gitlab, Bitbucket ou similares)
 
-Em ambos os casos, deve existir um arquivo README.md no projeto com instruções para a compilação/execução da aplicação web.
+Deve existir um arquivo README.md no projeto com instruções para a compilação/execução da aplicação web.
