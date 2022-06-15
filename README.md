@@ -32,7 +32,7 @@ A fonte utilizada no componente é a **Poppins**.
 
 ## Entrega
 
-O projeto do desafio técnico deve ser entregue no seguinte formato:
+O projeto do desafio técnico deve ser entregue no email **tecnologia.liderancas@cubos.academy** no seguinte formato:
 - Repositório hospedado (Github, Gitlab, Bitbucket ou similares)
 
 Deve existir um arquivo README.md no projeto com instruções para a compilação/execução da aplicação web.
