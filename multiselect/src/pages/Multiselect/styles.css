@@ -1,0 +1,29 @@
+@import '../../css/colors.css';
+
+.multiselects {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 60px;
+
+  padding: 35px 40px;
+
+  font-family: 'Poppins';
+
+  background-color: var(--color1);
+}
+
+.multiselects .multiselect:nth-child(4) {
+  margin-top: -205px;
+}
+
+.multiselects .multiselect:nth-child(5) {
+  right: 25%;
+  transform: translateX(-50%);
+}
+
+@media only screen and (max-width: 1536px) {
+  .multiselects .multiselect:nth-child(5) {
+    right: 20%;
+  }
+}

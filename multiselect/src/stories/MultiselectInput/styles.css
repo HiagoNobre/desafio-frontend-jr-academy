@@ -1,0 +1,96 @@
+@import '../../css/colors.css';
+
+.storybook-multiselect-input-title {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+
+  color: var(--color3);
+}
+
+.storybook-multiselect-input {
+  cursor: pointer;
+
+  display: flex;
+  justify-content: space-between;
+
+  width: 416px;
+  min-height: 48px;
+
+  margin-top: 18px;
+
+  padding: 7px 0 7px 7px;
+
+  border-radius: 10px;
+
+  font-family: 'Poppins', sans-serif;
+}
+
+.storybook-multiselect-input--selected {
+  background-color: var(--color1);
+  border: 2.5px solid var(--color2);
+}
+
+.storybook-multiselect-input--not-selected {
+  background-color: var(--color4);
+  border: 2.5px solid var(--color5);
+}
+
+.storybook-multiselect-input,
+.storybook-multiselect-input-left,
+.storybook-multiselect-input-right {
+  display: flex;
+  align-items: center;
+
+  color: var(--color6);
+}
+
+.storybook-multiselect-input-left {
+  flex-wrap: wrap;
+  gap: 10px;
+
+  width: 100%;
+
+  font-size: 18px;
+}
+
+.storybook-multiselect-input-right {
+  justify-content: center;
+
+  width: 74px;
+
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.storybook-multiselect-input-right--selected {
+  transform: rotateX(0deg) translateY(2px) scale(1.5, 0.6);
+
+  color: var(--color2);
+}
+
+.storybook-multiselect-input-right--not-selected {
+  transform: rotateX(180deg) translateY(2px) scale(1.5, 0.6);
+}
+
+.storybook-multiselect-input-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 21px;
+
+  height: 45px;
+
+  padding: 0 10px;
+
+  border-radius: 4px;
+
+  background-color: var(--color2);
+  color: var(--color1);
+}
+
+.storybook-multiselect-input-checkbox span:nth-child(2) {
+  transform: rotateX(0deg) translateY(0px) scale(1.5, 1.2);
+
+  font-size: 14px;
+  font-weight: 500;
+}
