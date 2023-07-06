@@ -27,14 +27,6 @@
   - `storybook`
   - `npm`
 ****
-Executando no navegador
-  - Telas
-    - `1631 x 865`
-    - `1536 X 722`
-  - Apenas para visualização. A usabilidade pode ter problemas
-   por conta das configurações de exibição de cada 'multiselect'
-   além disso **a visualização igual na foto só fica boa no navegador Google Chrome mas é apenas a configuração da página multiselect e não do componente multiselect**
-****
 Funciona nos navegadores
   - Google Chrome
   - Microsoft Edge
