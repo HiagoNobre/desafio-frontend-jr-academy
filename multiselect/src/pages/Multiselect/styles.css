@@ -8,9 +8,9 @@
 
   font-family: 'Poppins';
 
-  background: rgb(118,123,32);
-  background: -moz-linear-gradient(90deg, rgba(118,123,32,0.6195728291316527) 35%, rgba(24,30,1,0.52) 37%);
-  background: -webkit-linear-gradient(90deg, rgba(118,123,32,0.6195728291316527) 35%, rgba(24,30,1,0.52) 37%);
-  background: linear-gradient(90deg, rgba(118,123,32,0.6195728291316527) 35%, rgba(24,30,1,0.52) 37%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#767b20",endColorstr="#181e01",GradientType=1);
+  background: rgb(238,174,202);
+  background: -moz-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,0.9192927170868347) 100%);
+  background: -webkit-radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,0.9192927170868347) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,0.9192927170868347) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#eeaeca",endColorstr="#94bbe9",GradientType=1);
 }
