@@ -1,5 +1,3 @@
-@import '../../css/colors.css';
-
 .main {
   display: flex;
   justify-content: center;
@@ -10,5 +8,9 @@
 
   font-family: 'Poppins';
 
-  background-color: var(--color1);
+  background: rgb(118,123,32);
+  background: -moz-linear-gradient(90deg, rgba(118,123,32,0.6195728291316527) 35%, rgba(24,30,1,0.52) 37%);
+  background: -webkit-linear-gradient(90deg, rgba(118,123,32,0.6195728291316527) 35%, rgba(24,30,1,0.52) 37%);
+  background: linear-gradient(90deg, rgba(118,123,32,0.6195728291316527) 35%, rgba(24,30,1,0.52) 37%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#767b20",endColorstr="#181e01",GradientType=1);
 }
